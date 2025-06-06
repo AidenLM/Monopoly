@@ -21,12 +21,12 @@ This is a simple terminal-based board game called **Monopoly**, written in C.
 
 1. Compile the game:
     ```bash
-    gcc -o monopoly_man monopoly_man.c
+    gcc -o monopoly monopoly.c
     ```
 
 2. Run the game:
     ```bash
-    ./monopoly_man
+    ./monopoly
     ```
 
 ## Features
@@ -36,4 +36,4 @@ This is a simple terminal-based board game called **Monopoly**, written in C.
 - Clear board display after each turn.
 - Option to replay the game after winning.
 
-Enjoy playing **Monopoly Man**! 🎲
+Enjoy playing **Monopoly**! 🎲
