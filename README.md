@@ -1,6 +1,6 @@
-# Monopoly Man
+# Monopoly
 
-This is a simple terminal-based board game called **Monopoly Man**, written in C.
+This is a simple terminal-based board game called **Monopoly**, written in C.
 
 ## How to Play
 
